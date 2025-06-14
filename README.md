@@ -1,1 +1,1 @@
-### My Git Bash settings ⚙️
+### ⚙️ Git Bash settings 
